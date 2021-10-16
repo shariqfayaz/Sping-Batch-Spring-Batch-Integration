@@ -1,4 +1,4 @@
-package com.SpingBatchIntegration.SpingBatchIntegration;
+package com.SpingBatchIntegration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
